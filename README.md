@@ -31,22 +31,22 @@ Overall, the research on investigating the use of reinforcement learning for aut
 
 
 ## Potential two-year time frame for completing this research project
-Year 1:
-•	Conduct a comprehensive review of the literature on reinforcement learning, autonomous decision-making, and robotics.
-•	Formulate the research questions and hypotheses.
-•	Develop a theoretical framework for the study.
-•	Design the experimental setup for the reinforcement learning algorithm.
-•	Implement and test the reinforcement learning algorithm on a simulation environment or a small-scale real-world robotic system.
-•	Collect and analyze the data.
-•	Write the first draft of the research paper.
-Year 2:
-•	Refine the reinforcement learning algorithm based on the results of the first year's study.
-•	Conduct further experiments and collect additional data.
-•	Analyze the data and validate the hypothesis.
-•	Write the final draft of the research paper.
-•	Prepare and present the results at academic conferences and workshops.
-•	Submit the research paper to relevant journals for publication.
-•	Work on improving the algorithm and expanding the scope of the study.
+### Year 1:
+*	Conduct a comprehensive review of the literature on reinforcement learning, autonomous decision-making, and robotics.
+*	Formulate the research questions and hypotheses.
+*	Develop a theoretical framework for the study.
+*	Design the experimental setup for the reinforcement learning algorithm.
+*	Implement and test the reinforcement learning algorithm on a simulation environment or a small-scale real-world robotic system.
+*	Collect and analyze the data.
+*	Write the first draft of the research paper.
+### Year 2:
+*	Refine the reinforcement learning algorithm based on the results of the first year's study.
+*	Conduct further experiments and collect additional data.
+*	Analyze the data and validate the hypothesis.
+*	Write the final draft of the research paper.
+*	Prepare and present the results at academic conferences and workshops.
+*	Submit the research paper to relevant journals for publication.
+*	Work on improving the algorithm and expanding the scope of the study.
 This is just a general outline, and the specific timeline and activities may vary depending on the specific research questions and methodologies used and also depend on Internship, academic subject in every semester and depends on my professor advise-suggestion. 
 
 
