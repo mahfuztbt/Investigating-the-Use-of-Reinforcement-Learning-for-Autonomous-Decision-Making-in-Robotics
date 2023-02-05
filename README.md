@@ -30,6 +30,26 @@ Furthermore, the successful implementation of reinforcement learning in robotics
 Overall, the research on investigating the use of reinforcement learning for autonomous decision-making in robotics is highly relevant and timely, and has the potential to significantly impact and shape the future of robotics and artificial intelligence.
 
 
+## Potential two-year time frame for completing this research project
+Year 1:
+•	Conduct a comprehensive review of the literature on reinforcement learning, autonomous decision-making, and robotics.
+•	Formulate the research questions and hypotheses.
+•	Develop a theoretical framework for the study.
+•	Design the experimental setup for the reinforcement learning algorithm.
+•	Implement and test the reinforcement learning algorithm on a simulation environment or a small-scale real-world robotic system.
+•	Collect and analyze the data.
+•	Write the first draft of the research paper.
+Year 2:
+•	Refine the reinforcement learning algorithm based on the results of the first year's study.
+•	Conduct further experiments and collect additional data.
+•	Analyze the data and validate the hypothesis.
+•	Write the final draft of the research paper.
+•	Prepare and present the results at academic conferences and workshops.
+•	Submit the research paper to relevant journals for publication.
+•	Work on improving the algorithm and expanding the scope of the study.
+This is just a general outline, and the specific timeline and activities may vary depending on the specific research questions and methodologies used and also depend on Internship, academic subject in every semester and depends on my professor advise-suggestion. 
+
+
 ## Future Academic and Career Objective 
 As I move forward with my studies and research in the field of artificial intelligence, I am motivated by the goal of becoming a leading expert in machine learning. I am particularly interested in the application of reinforcement learning to autonomous decision-making in robotics, as I believe this technology has the potential to revolutionize the way we interact with and control machines.
 After completing my master's degree in artificial intelligence at the School of Artificial Intelligence and Automation, I plan to pursue a PhD in the same field. My long-term goal is to use my expertise in machine learning to make significant contributions to the field through cutting-edge research and development.
