@@ -52,7 +52,7 @@ This is just a general outline, and the specific timeline and activities may var
 
 ## Future Academic and Career Objective 
 As I move forward with my studies and research in the field of artificial intelligence, I am motivated by the goal of becoming a leading expert in machine learning. I am particularly interested in the application of reinforcement learning to autonomous decision-making in robotics, as I believe this technology has the potential to revolutionize the way we interact with and control machines.
-After completing my master's degree in artificial intelligence at the School of Artificial Intelligence and Automation, I plan to pursue a PhD in the same field. My long-term goal is to use my expertise in machine learning to make significant contributions to the field through cutting-edge research and development.
+After completing my master's degree in Computer Science and Technology, I plan to pursue a PhD in the same field. My long-term goal is to use my expertise in machine learning to make significant contributions to the field through cutting-edge research and development.
 In addition to my academic pursuits, I also plan to use my skills and knowledge to make a meaningful impact in the professional world. I am eager to work as a machine learning engineer, applying my research and expertise to the development of real-world solutions that can improve the lives of people around the world.
 I am confident that my dedication to learning and my passion for artificial intelligence will enable me to achieve my academic and career goals. I am excited to see where my studies and research will take me in the future, and I am committed to working hard to make the most of every opportunity that comes my way.
 
